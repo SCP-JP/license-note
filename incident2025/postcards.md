@@ -1,6 +1,15 @@
 # ポストカード
 - 頒布イベント：[収容違反 インシデント2025-006](https://scp-event.tokyo/)
 
+## ライセンス
+
+```
+Title: SCP-JP Postcards for incident 2025
+Author: SCP財団
+License: CC BY-SA 4.0
+```
+
+
 # 元作品ライセンス
 
 > [!NOTE]

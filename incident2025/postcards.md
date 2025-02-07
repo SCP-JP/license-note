@@ -17,7 +17,7 @@ License: CC BY-SA 4.0
 
 ## 裏面：共通
 <img src="https://github.com/user-attachments/assets/b603d9ec-2844-4231-839d-6256ab88f478" width="300px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -37,7 +37,7 @@ Year: 2024
 
 ## 表面：N_Djamenaさん
 <img src="https://github.com/user-attachments/assets/e523cf08-495e-4d3e-bce3-bd29beffee16" width="500px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -57,7 +57,7 @@ License: CC BY-SA 3.0
 
 ## 表面：kikinzokuさん
 <img src="https://github.com/user-attachments/assets/4b186cae-7be1-4062-9905-26e903a27ffb" width="500px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -78,7 +78,7 @@ License: CC BY-SA 3.0
 
 ## 表面：koikoi_Rainy4Lさん
 <img src="https://github.com/user-attachments/assets/54985976-4b56-4af2-b6a9-3428e283ee19" width="300px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -98,7 +98,7 @@ CC BY-SA 3.0
 
 ## 表面：飯田橋さん
 <img src="https://github.com/user-attachments/assets/072058cd-a9d0-4ba9-8f7f-e63cfe61ae72" width="300px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -118,7 +118,7 @@ License: CC BY-SA 3.0
 
 ## 表面：rui_takeさん
 <img src="https://github.com/user-attachments/assets/895fa8f7-6b44-41d5-88d7-a2444a07e512" width="300px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -138,7 +138,7 @@ License: CC BY-SA 3.0
 
 ## 表面：kihakuさん ①
 <img src="https://github.com/user-attachments/assets/f87c4bb4-3de9-4d61-9822-d99ccc2efdca" width="300px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -158,7 +158,7 @@ License: CC BY-SA 4.0
 
 ## 表面：kihakuさん ②
 <img src="https://github.com/user-attachments/assets/fc4ff4ff-34b3-4f89-97be-358d083db944" width="300px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -179,7 +179,7 @@ License: CC BY-SA 4.0
 
 ## 表面：kihakuさん ③
 <img src="https://github.com/user-attachments/assets/909b5e33-f2c4-4bf6-a2d5-b02317c10aa1" width="300px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -199,7 +199,7 @@ License: CC BY-SA 4.0
 
 ## 表面：Ryu JPさん
 <img src="https://github.com/user-attachments/assets/2371ae4f-3202-45fd-9529-562263950ae4" width="500px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
@@ -233,7 +233,7 @@ License: CC BY-SA 3.0
 
 ## 表面：KARENballasSさん
 <img src="https://github.com/user-attachments/assets/6e950414-bd08-490d-9c1a-09f91b5071f7" width="300px">
-<details>
+<details markdown="block">
 <summary>ライセンス</summary>
 
 イラストライセンス：
